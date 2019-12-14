@@ -8,7 +8,8 @@ Ce repertoire à pour but de recenser les différentes diapositives donné par l
 
 Pour le moment aucun. Les contributions sont les bienvenues ! ;-) 
 
-
+| #  | Session          |
+| 16 | Python           |
 
 ## Diapositives manquantes
 
