@@ -6,10 +6,9 @@ Ce repertoire à pour but de recenser les différentes diapositives donné par l
 
 ## Diapositives disponibles
 
-Pour le moment aucun. Les contributions sont les bienvenues ! ;-) 
-
 | #  | Session          |
 |----|------------------|
+| 2  | SQL              |
 | 16 | Python           |
 
 ## Diapositives manquantes
@@ -17,7 +16,6 @@ Pour le moment aucun. Les contributions sont les bienvenues ! ;-)
 | #  | Session          |
 |----|------------------|
 | 1  | HTML/CSS         |
-| 2  | SQL              |
 | 3  | PHP              |
 | 4  | Algorithmie      |
 | 5  | Javascript       |
